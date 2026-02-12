@@ -6,11 +6,14 @@ Interactive quiz game built with vanilla HTML, CSS & JavaScript.
 
 **5 multiple-choice questions on general knowledge**
 <img width="1727" height="858" alt="image" src="https://github.com/user-attachments/assets/b23e4fff-0646-4b99-86fb-a39b51d1e98a" />
+
 **Instant visual feedback (correct/incorrect highlighting)**
 <img width="1693" height="877" alt="image" src="https://github.com/user-attachments/assets/972c3c9a-22a8-4ff7-8260-2f97e3a99363" />
+
 **Score tracking throughout the quiz**
 **Progress bar showing quiz completion**
 <img width="708" height="124" alt="image" src="https://github.com/user-attachments/assets/888742f4-3e51-4222-a396-1c00903e2f8c" />
+
 **Result screen with personalized messages based on your score**
   <img width="1388" height="823" alt="image" src="https://github.com/user-attachments/assets/f24971a3-377d-43a8-952b-c7243b4073c7" />
 **Responsive design for mobile and desktop**
